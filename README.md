@@ -126,6 +126,3 @@ The 255 questions are organized around core Stoic themes:
 
 ---
 
-## License
-
-MIT License — feel free to use, modify, and share.
